@@ -84,7 +84,4 @@ This Tableau dashboard serves as a **business intelligence tool** to:
 * Recognize and reward high-performing salespersons
 * Identify opportunities for market expansion
 * Support strategic planning for global sales growth
-
----
-
-Would you like me to also **add a small placeholder image** (like with the Dropout and Mental Health projects) to visually show the **Country filter** in the README?
+ 
